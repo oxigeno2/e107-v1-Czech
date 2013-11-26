@@ -1,0 +1,150 @@
+<?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - Language File.
+|
+|     $Source: /cvsroot/e107/e107_0.7/e107_languages/Czech/admin/lan_newspost.php,v $
+|     $Revision: 1.32 $
+|     $Date: 2007/10/06 00:17:10 $
+|     $Author: e107coders $
++----------------------------------------------------------------------------+
+*/
+define("NWSLAN_1", "Novinka smazána.");
+define("NWSLAN_2", "Zaškrtněte prosím toto pole, čímž potvrdíte, že chcete smazat tuto novinku.");
+define("NWSLAN_3", "Zatím zde nejsou žádné novinky.");
+define("NWSLAN_4", "Existující novinky");
+define("NWSLAN_5", "Otevřít HTML editor");
+define("NWSLAN_6", "Kategorie");
+define("NWSLAN_9", "zaškrtnutím potvrdíte");
+define("NWSLAN_10", "Žádné kategorie");
+define("NWSLAN_11", "Přidat/upravit kategorie");
+define("NWSLAN_12", "Název");
+define("NWSLAN_13", "Obsah");
+define("NWSLAN_14", "Rozšířená");
+define("NWSLAN_15", "Komentáře");
+define("NWSLAN_18", "Povolení psaní komentářů k tomuto článku");
+define("NWSLAN_19", "Aktivace");
+define("NWSLAN_21", "Aktivovat mezi těmito daty:");
+define("NWSLAN_22", "Viditelnost");
+define("NWSLAN_24", "Náhled");
+define("NWSLAN_25", "Uložit");
+define("NWSLAN_26", "Uložit");
+define("NWSLAN_27", "Náhled");
+define("NWSLAN_29", "Vkládání novinek");
+define("NWSLAN_31", "Novinka");
+define("NWSLAN_32", "smazána");
+define("NWSLAN_33", "Kategorie");
+define("NWSLAN_34", "Uživatelská novinka");
+define("NWSLAN_35", "Nová kategorie uložena");
+define("NWSLAN_36", "Kategorie aktualizována");
+define("NWSLAN_37", "Jste si jisti, že chcete smazat tuto kategorii?");
+define("NWSLAN_38", "Jste si jisti, že chcete smazat tuto uživatelskou novinku?");
+define("NWSLAN_39", "Jste si jisti, že chcete smazat tuto novinku?");
+define("NWSLAN_40", "Název");
+define("NWSLAN_42", "Bez názvu");
+define("NWSLAN_43", "Žádné novinky");
+define("NWSLAN_44", "Seznam novinek");
+define("NWSLAN_45", "Vytvořit novou");
+define("NWSLAN_46", "Kategorie");
+define("NWSLAN_47", "Uživatelské novinky");
+define("NWSLAN_48", "Nastavení");
+define("NWSLAN_49", "Napsal");
+define("NWSLAN_51", "Existující kategorie");
+define("NWSLAN_52", "Název kategorie");
+define("NWSLAN_53", "Ikonka kategorie");
+define("NWSLAN_54", "Zobrazit obrázky");
+define("NWSLAN_55", "Uložit");
+define("NWSLAN_56", "Uložit");
+define("NWSLAN_57", "Položka");
+define("NWSLAN_58", "Uložit");
+define("NWSLAN_59", "Žádné uživatelské novinky");
+define("NWSLAN_62", "Přejít na stranu:");
+define("NWSLAN_63", "Hledat v novinkách");
+define("NWSLAN_66", "Nahrání souboru");
+define("NWSLAN_67", "Obrázek");
+define("NWSLAN_68", "Soubor");
+define("NWSLAN_69", "Nahrát obrázek nebo soubor, který bude použit v novince");
+define("NWSLAN_72", "Zobrazuje novinku jen v rozmezí určených dat");
+define("NWSLAN_73", "Typ zobrazení");
+define("NWSLAN_74", "Jak a kde bude novinka zobrazena");
+define("NWSLAN_75", "Základní - na novinkové straně");
+define("NWSLAN_76", "Pouze titulek - na novinkové straně");
+define("NWSLAN_77", "Na jiném novinkovém menu");
+define("NWSLAN_79", "Vyčistit formulář");
+define("NWSLAN_83", "Rozšířený textový obsah");
+define("NWSLAN_84", "Zvolte, kteří návštěvníci novinku uvidí");
+define("NWSLAN_86", "Zobrazovat seznam kategorií jako patičku zpráv");
+define("NWSLAN_87", "Zobrazovat kategorie v patičce ve sloupcích?");
+define("NWSLAN_88", "Počet novinek na stranu");
+define("NWSLAN_89", "Uložit");
+define("NWSLAN_90", "Nastavení");
+define("NWSLAN_100", "Povolit nahrávání obrázků u uživatelských novinek?");
+define("NWSLAN_101", "Automatická změna velikosti nahrávaného obrázku");
+define("NWSLAN_102", "zadejte šířku v pixelech<br /> nebo ponechte prázdné, čímž tuto funkci vypnete");
+define("NWSLAN_103", "re-post");
+define("NWSLAN_104", "napsal");
+define("NWSLAN_105", "Zaškrtě pole pro aktualizaci času vložení na aktuální čas.");
+define("NWSLAN_106", "Uživatelské novinky může vkládat:");
+define("NWSLAN_107", "Povolit WYSIWYG editor při vkládaní uživatelských novinek");
+define("NWSLAN_108", "on");
+define("NWSLAN_111", "Zobrazit nadpis se souhrnným datem");
+define("NWSLAN_112", "Pokud je tato volba zatržena, nad novinkami bude zobrazeno datum viditelně znázorňující, které novinky byly poslány ve stejný den.");
+define("NWSLAN_113", "Pro novinky použít nestandardní rozvržení");
+define("NWSLAN_114", "Použít zvláštní rozvržení pro novinky, pokud jej váš vzhled podporuje.");
+define("NWSLAN_115", "Počet novinek k zobrazení v archivu");
+define("NWSLAN_116", "Pokud měníte počet novinek na stranu, pak nastavení nejprve uložte a až pak měňte tuto volbu. (0 znamená vypnuto)");
+define("NWSLAN_117", "Titulek pro archiv novinek");
+define("NWSLAN_119", "Uloženo");
+define("NWSLAN_120", "Text, který se bude zobrazovat nad formulářem pro zasílání uživatelských novinek");
+define("LAN_NEWS_5", "Chyba! - Nebylo možné aktualizovat novinku v databázi!");
+define("LAN_NEWS_6", "Novinka vložena.");
+define("LAN_NEWS_7", "Chyba! - Nebylo možné vložit novinku do databáze!");
+define("LAN_NEWS_9", "Pouze titulek - <b>pouze titulek novinky bude zobrazen</b>");
+define("LAN_NEWS_10", "Tato novinka je <b>neaktivní</b> (Nebude zobrazena na hlavní straně).");
+define("LAN_NEWS_11", "Tato novinka je <b>aktivní</b> (Bude zobrazena na hlavní straně).");
+define("LAN_NEWS_12", "Komentáře jsou <b>povoleny</b>.");
+define("LAN_NEWS_13", "Komentáře jsou <b>zakázané</b>.");
+define("LAN_NEWS_14", "<br />Doba aktivace:");
+define("LAN_NEWS_15", "Délka obsahu:");
+define("LAN_NEWS_16", "b. Rozšířená délka:");
+define("LAN_NEWS_17", "b.");
+define("LAN_NEWS_18", "Info");
+define("LAN_NEWS_19", "Nyní");
+define("LAN_NEWS_21", "Novinka aktualizována");
+define("LAN_NEWS_22", "Miniatura");
+define("LAN_NEWS_23", "Volba obrázku pro tuto novinku");
+define("LAN_NEWS_24", "Obrázek + Automatická miniatura");
+define("LAN_NEWS_25", "Velikost automatické miniatury");
+define("LAN_NEWS_26", "Přidat další soubor");
+define("LAN_NEWS_27", "Souhrn");
+define("LAN_NEWS_28", "Přišpendlit");
+define("LAN_NEWS_29", "Zvolte, zda bude novinka přišpendlena");
+define("LAN_NEWS_30", "Novinka bude umístěna nad všechny ostatní");
+define("LAN_NEWS_31", "Tato novinka je <b>přišpendlená</b> (bude zobrazena nad ostatními).");
+define("LAN_NEWS_32", "Datum vložení");
+define("LAN_NEWS_33", "Umožňuje určit přesný čas vložení");
+define("LAN_NEWS_34", "Trackback");
+define("LAN_NEWS_35", "Přidat URL trackbacků");
+define("LAN_NEWS_36", "<b>Pingback</b> (pošle pingback všem URL v tomto příspěvku)");
+define("LAN_NEWS_37", "<b>Trackbacky:</b> (jedna URL na řádek)");
+define("LAN_NEWS_38", "Vložit obrázky");
+define("LAN_NEWS_39", "Kliknutím na soubor jej vložíte na pozici kurzoru");
+define("LAN_NEWS_40", "Vložit odkazy ke stažení");
+define("LAN_NEWS_42", "Soubory");
+define("LAN_NEWS_44", "Trackback je vypnut.");
+define("LAN_NEWS_45", "ID");
+define("LAN_NEWS_46", "Novinka nebyla aktualizována, nebyly provedeny žádné změny.");
+define("LAN_NEWS_48", "Žádný obrázek");
+define("LAN_NEWS_49", "Typ zobrazení");
+define("LAN_NEWS_50", "Údržba");
+define("LAN_NEWS_51", "Přepočítat početkomentářů");
+define("LAN_NEWS_52", "Pokračovat");
+define("LAN_NEWS_53", "Aktualizace kompletní");
+define("LAN_NEWS_54", "Údržba novinek");
+define("LAN_NEWS_55", "Autor (Publikovatel)");
+define("LAN_NEWS_56", "Publikováno");
+define("LAN_NEWS_61", "Odstranit také nepovolené komentáře");
+define("LAN_NEWS_62", "Chyba v přístupu do databáze, nebo nebyli nalezeny žádné položky");
+
+
+?>
