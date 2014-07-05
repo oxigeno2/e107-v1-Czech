@@ -18,7 +18,7 @@ define("LOGIN_MENU_L3", "Vytvořit účet");
 define("LOGIN_MENU_L4", "Zapomenuté heslo?");
 define("LOGIN_MENU_L5", "Vítejte,");
 define("LOGIN_MENU_L6", "Pamatuj si mě");
-define("LOGIN_MENU_L7", "Unikátní uživatel nerozpoznán (možná poškozená cookie?).<br />Prosím <a href=\"".e_BASE."index.php?logout\">klikněte</a> pro odstranění cookie.");
+define("LOGIN_MENU_L7", "Unikátní uživatelské ID nerozpoznáno (pravděpodobně poškozená cookie).<br />Prosím <a href=\"".e_BASE."index.php?logout\">klikněte zde</a> pro obnovení cookie.");
 define("LOGIN_MENU_L8", "Odhlásit se");
 define("LOGIN_MENU_L9", "Chyba v přihlášení");
 define("LOGIN_MENU_L10", "Je zapnuta údržba stránek, tzn. že běžní uživatelé jsou přesměrování na stránku sitedown.php. Pro nastavení údržby běžte na stránku admin/údržba.");
